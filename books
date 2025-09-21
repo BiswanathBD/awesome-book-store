@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://covers.openlibrary.org/b/id/6519016-L.jpg",
+    "description": "A novel set in the Jazz Age that explores themes of wealth, love, and the American Dream.",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "description": "A dystopian story about totalitarianism, surveillance, and control.",
+    "price": 10.50
+  },
+  {
+    "id": 3,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://covers.openlibrary.org/b/id/9874706-L.jpg",
+    "description": "A story of racial injustice and moral growth in the Deep South.",
+    "price": 14.25
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://covers.openlibrary.org/b/id/8231852-L.jpg",
+    "description": "A classic romance that critiques class and societal expectations.",
+    "price": 9.99
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+    "description": "A fantasy adventure about Bilbo Baggins' journey with dwarves to reclaim treasure.",
+    "price": 16.40
+  },
+  {
+    "id": 6,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "image": "https://covers.openlibrary.org/b/id/8101355-L.jpg",
+    "description": "The epic tale of Captain Ahab’s obsessive quest to hunt the white whale.",
+    "price": 18.75
+  },
+  {
+    "id": 7,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://covers.openlibrary.org/b/id/8231994-L.jpg",
+    "description": "The story of teenage Holden Caulfield’s struggles with identity and society.",
+    "price": 11.20
+  },
+  {
+    "id": 8,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://covers.openlibrary.org/b/id/8776048-L.jpg",
+    "description": "A futuristic dystopia where human freedom is sacrificed for stability.",
+    "price": 13.80
+  },
+  {
+    "id": 9,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "description": "A sweeping epic about Russian society during the Napoleonic wars.",
+    "price": 22.99
+  },
+  {
+    "id": 10,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://covers.openlibrary.org/b/id/8370196-L.jpg",
+    "description": "A philosophical tale about following one’s dreams and destiny.",
+    "price": 15.00
+  }
+]
