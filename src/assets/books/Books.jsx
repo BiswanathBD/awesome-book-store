@@ -8,15 +8,15 @@ const Books = ({ booksPromise }) => {
   const [cart, setCart] = useState([]);
 
   const addToCart = (id) => {
-    const newCart = [...cart, id];
-    setCart(newCart);
+    cart.includes(id) || setCart([...cart, id]);
   };
   return (
     <div>
       <h1 className="logo">🛒BookStore</h1>
 
       <div className="main">
-        <Cart cart={cart} booksData={booksData}></Cart>
+        {/* cart section */}
+        <Cart cart={cart} booksData={booksData} setCart={setCart}></Cart>
 
         <div className="books-container">
           {booksData.map((book) => (
@@ -31,9 +31,9 @@ const Books = ({ booksPromise }) => {
               <h2 className="price">Price: $ {book.price}</h2>
               <button
                 onClick={() => addToCart(book.id)}
-                className={`add-btn ${cart.includes(book.id) ? "added" : ""}`}
+                className={`add-btn ${cart.includes(book.id) && "added"}`}
               >
-                Add to Cart
+                {cart.includes(book.id) ? "Added" : "Add to Cart"}
               </button>
             </div>
           ))}
