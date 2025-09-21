@@ -49,8 +49,9 @@
   height: 100%;
 }
 .plus {
-  margin: 5px;
   cursor: pointer;
+  color: green;
+  padding: 5px;
 }
 .total {
   display: flex;

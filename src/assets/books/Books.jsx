@@ -12,7 +12,7 @@ const Books = ({ booksPromise }) => {
   };
   return (
     <div>
-      <h1 className="logo">🛒BookStore</h1>
+      <h1 className="logo">🏷️BookStore</h1>
 
       <div className="main">
         {/* cart section */}
