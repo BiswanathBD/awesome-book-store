@@ -1,82 +1,32 @@
 [
-  {
-    "id": 1,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
-    "description": "A novel set in the Jazz Age that explores themes of wealth, love, and the American Dream.",
-    "price": 12.99
-  },
-  {
-    "id": 2,
-    "title": "1984",
-    "author": "George Orwell",
-    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
-    "description": "A dystopian story about totalitarianism, surveillance, and control.",
-    "price": 10.5
-  },
-  {
-    "id": 3,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "image": "https://covers.openlibrary.org/b/id/9874706-L.jpg",
-    "description": "A story of racial injustice and moral growth in the Deep South.",
-    "price": 14.25
-  },
-  {
-    "id": 4,
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "image": "https://covers.openlibrary.org/b/id/8081536-L.jpg",
-    "description": "A classic romance that critiques class and societal expectations.",
-    "price": 9.99
-  },
-  {
-    "id": 5,
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
-    "description": "A fantasy adventure about Bilbo Baggins' journey with dwarves to reclaim treasure.",
-    "price": 16.4
-  },
-  {
-    "id": 6,
-    "title": "Moby-Dick",
-    "author": "Herman Melville",
-    "image": "https://covers.openlibrary.org/b/id/5551040-L.jpg",
-    "description": "The epic tale of Captain Ahab’s obsessive quest to hunt the white whale.",
-    "price": 18.75
-  },
-  {
-    "id": 7,
-    "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
-    "description": "The story of teenage Holden Caulfield’s struggles with identity and society.",
-    "price": 11.2
-  },
-  {
-    "id": 8,
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "image": "https://covers.openlibrary.org/b/id/8776048-L.jpg",
-    "description": "A futuristic dystopia where human freedom is sacrificed for stability.",
-    "price": 13.8
-  },
-  {
-    "id": 9,
-    "title": "War and Peace",
-    "author": "Leo Tolstoy",
-    "image": "https://covers.openlibrary.org/b/id/7222276-L.jpg",
-    "description": "A sweeping epic about Russian society during the Napoleonic wars.",
-    "price": 22.99
-  },
-  {
-    "id": 10,
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "image": "https://covers.openlibrary.org/b/id/8370196-L.jpg",
-    "description": "A philosophical tale about following one’s dreams and destiny.",
-    "price": 15
-  }
+  { "id": 1, "title": "The Silent Patient", "author": "Alex Michaelides", "image": "https://picsum.photos/200/300?random=1", "price": 12.99 },
+  { "id": 2, "title": "Where the Crawdads Sing", "author": "Delia Owens", "image": "https://picsum.photos/200/300?random=2", "price": 15.49 },
+  { "id": 3, "title": "Becoming", "author": "Michelle Obama", "image": "https://picsum.photos/200/300?random=3", "price": 18.00 },
+  { "id": 4, "title": "Educated", "author": "Tara Westover", "image": "https://picsum.photos/200/300?random=4", "price": 14.25 },
+  { "id": 5, "title": "The Midnight Library", "author": "Matt Haig", "image": "https://picsum.photos/200/300?random=5", "price": 13.75 },
+  { "id": 6, "title": "Atomic Habits", "author": "James Clear", "image": "https://picsum.photos/200/300?random=6", "price": 16.50 },
+  { "id": 7, "title": "The Alchemist", "author": "Paulo Coelho", "image": "https://picsum.photos/200/300?random=7", "price": 11.99 },
+  { "id": 8, "title": "Normal People", "author": "Sally Rooney", "image": "https://picsum.photos/200/300?random=8", "price": 12.50 },
+  { "id": 9, "title": "The Vanishing Half", "author": "Brit Bennett", "image": "https://picsum.photos/200/300?random=9", "price": 14.99 },
+  { "id": 10, "title": "Little Fires Everywhere", "author": "Celeste Ng", "image": "https://picsum.photos/200/300?random=10", "price": 13.49 },
+  { "id": 11, "title": "Dune", "author": "Frank Herbert", "image": "https://picsum.photos/200/300?random=11", "price": 17.25 },
+  { "id": 12, "title": "1984", "author": "George Orwell", "image": "https://picsum.photos/200/300?random=12", "price": 10.99 },
+  { "id": 13, "title": "To Kill a Mockingbird", "author": "Harper Lee", "image": "https://picsum.photos/200/300?random=13", "price": 12.49 },
+  { "id": 14, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "image": "https://picsum.photos/200/300?random=14", "price": 11.50 },
+  { "id": 15, "title": "The Book Thief", "author": "Markus Zusak", "image": "https://picsum.photos/200/300?random=15", "price": 13.99 },
+  { "id": 16, "title": "The Hobbit", "author": "J.R.R. Tolkien", "image": "https://picsum.photos/200/300?random=16", "price": 15.00 },
+  { "id": 17, "title": "Pachinko", "author": "Min Jin Lee", "image": "https://picsum.photos/200/300?random=17", "price": 14.75 },
+  { "id": 18, "title": "Circe", "author": "Madeline Miller", "image": "https://picsum.photos/200/300?random=18", "price": 13.25 },
+  { "id": 19, "title": "The Night Circus", "author": "Erin Morgenstern", "image": "https://picsum.photos/200/300?random=19", "price": 12.99 },
+  { "id": 20, "title": "Sapiens", "author": "Yuval Noah Harari", "image": "https://picsum.photos/200/300?random=20", "price": 19.50 },
+  { "id": 21, "title": "The Power of Habit", "author": "Charles Duhigg", "image": "https://picsum.photos/200/300?random=21", "price": 15.99 },
+  { "id": 22, "title": "Think Again", "author": "Adam Grant", "image": "https://picsum.photos/200/300?random=22", "price": 16.25 },
+  { "id": 23, "title": "The Road", "author": "Cormac McCarthy", "image": "https://picsum.photos/200/300?random=23", "price": 13.75 },
+  { "id": 24, "title": "Brave New World", "author": "Aldous Huxley", "image": "https://picsum.photos/200/300?random=24", "price": 11.99 },
+  { "id": 25, "title": "Gone Girl", "author": "Gillian Flynn", "image": "https://picsum.photos/200/300?random=25", "price": 12.50 },
+  { "id": 26, "title": "The Goldfinch", "author": "Donna Tartt", "image": "https://picsum.photos/200/300?random=26", "price": 17.00 },
+  { "id": 27, "title": "A Man Called Ove", "author": "Fredrik Backman", "image": "https://picsum.photos/200/300?random=27", "price": 13.50 },
+  { "id": 28, "title": "Anxious People", "author": "Fredrik Backman", "image": "https://picsum.photos/200/300?random=28", "price": 14.25 },
+  { "id": 29, "title": "Where the Forest Meets the Stars", "author": "Glendy Vanderah", "image": "https://picsum.photos/200/300?random=29", "price": 12.75 },
+  { "id": 30, "title": "Project Hail Mary", "author": "Andy Weir", "image": "https://picsum.photos/200/300?random=30", "price": 18.50 }
 ]
