@@ -1,4 +1,4 @@
-.logo{
+.logo {
   color: red;
   font-size: 64px;
   text-align: center;
@@ -61,7 +61,9 @@
 }
 .add-btn:hover {
   background-color: orange;
+  color: white;
 }
 .added {
-  background-color: rgba(255, 166, 0, 0.5);
+  background-color: rgba(255, 166, 0, 0.6);
+  color: white;
 }
